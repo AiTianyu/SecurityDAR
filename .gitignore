@@ -1,0 +1,7 @@
+# virtual studio files
+**/.vs/*
+**/bin/*
+**/obj/*
+
+# Mac OS X Finder and whatnot
+.DS_Store
